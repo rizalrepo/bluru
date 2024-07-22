@@ -233,7 +233,7 @@ if (!isset($_SESSION['login'])) {
                                             </li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item">
+                                    <!-- <li class="menu-item">
                                         <a href="javascript:void(0)" class="menu-link menu-toggle">
                                             <i class="menu-icon tf-icons ti ti-report"></i>
                                             <div>Laporan</div>
@@ -246,7 +246,7 @@ if (!isset($_SESSION['login'])) {
                                                 </a>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                 <?php } ?>
                             </ul>
                         </div>
